@@ -1,0 +1,38 @@
+name: fancy_clock
+description: My Clock Implementation For Flutter Clock Challenge.
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.3.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  provider: ^4.0.1
+  flutter_clock_helper:
+      path: ../flutter_clock_helper
+
+  cupertino_icons: ^0.1.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+
+flutter:
+
+  uses-material-design: true
+
+  fonts:
+    - family: Lato
+      fonts:
+        - asset: assets/fonts/lato_bold.ttf
+
+  assets:
+    - assets/res/bg/
+    - assets/res/weather/
+    - assets/res/particles/
+
+
