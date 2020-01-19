@@ -1,24 +1,12 @@
-<img src="https://github.com/mariogorki94/FlutterFancyClock/blob/master/pictures/1.png" title="Flutter Fancy Clock" alt="FancyClock">
-
 # Flutter Fancy Clock
 
-> My submission for the Flutter Clock Challenge.
+> My submission for the Flutter Clock Challenge. 
 
 
 [![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org) 
 
-![](https://github.com/mariogorki94/FlutterFancyClock/blob/master/pictures/1.png)
-![](https://github.com/mariogorki94/FlutterFancyClock/blob/master/pictures/2.png)
-![](https://github.com/mariogorki94/FlutterFancyClock/blob/master/pictures/3.png)
-![](https://github.com/mariogorki94/FlutterFancyClock/blob/master/pictures/4.png)
-![](https://github.com/mariogorki94/FlutterFancyClock/blob/master/pictures/5.png)
-![](https://github.com/mariogorki94/FlutterFancyClock/blob/master/pictures/6.png)
+![](https://github.com/mariogorki94/FlutterFancyClock/blob/master/pictures/video_1.gif)
 
-
-## Installation
-
-- All the `code` required to get started
-- Images of what it should look like
 
 ### Clone
 
@@ -26,24 +14,37 @@
 
 ### Setup
 
-- If you want more syntax highlighting, format your code like this:
 
-> update and install this package first
+- Clone or download the project.
+- Install Flutter from https://flutter.dev/
+- Open command tool or IDE
 
-```shell
-$ brew update
-$ brew install fvcproductions
-```
-
-> now install npm and bower packages
+> In the terminal navigate to the project directory
 
 ```shell
-$ npm install
-$ bower install
+$ cd <PATH-TO-PROJECT>/fancy_clock/fancy_clock
 ```
+
+> Create the neccesary native projects
+
+```shell
+$ flutter create .
+```
+
+> Run the project
+
+```shell
+$ flutter run
+```
+
 
 ## Features
-
+- Flexible and beautiful time widget which adjusts for the 24 hour / 12 hour time cycles.
+- Interesting weather widget with beautiful animation between the temperatures and weather conditions.
+- Dark and light mode backgrounds with color blend effects depending on the weather condition.
+- Particle effects depending on the weather.
+- Showing the current date with beautiful animation.
+- Showing the current location with beautiful animation.
 
 ## License
 
