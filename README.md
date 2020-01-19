@@ -1,4 +1,4 @@
-<a href="http://fvcproductions.com"><img src="https://avatars1.githubusercontent.com/u/4284691?v=3&s=200" title="FVCproductions" alt="FancyClock"></a>
+<img src="https://github.com/mariogorki94/FlutterFancyClock/blob/master/pictures/1.png" title="Flutter Fancy Clock" alt="FancyClock">
 
 # Flutter Fancy Clock
 
@@ -7,61 +7,13 @@
 
 [![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org) 
 
-[![INSERT YOUR GRAPHIC HERE](http://i.imgur.com/dt8AUb6.png)]()
+![](https://github.com/mariogorki94/FlutterFancyClock/blob/master/pictures/1.png)
+![](https://github.com/mariogorki94/FlutterFancyClock/blob/master/pictures/2.png)
+![](https://github.com/mariogorki94/FlutterFancyClock/blob/master/pictures/3.png)
+![](https://github.com/mariogorki94/FlutterFancyClock/blob/master/pictures/4.png)
+![](https://github.com/mariogorki94/FlutterFancyClock/blob/master/pictures/5.png)
+![](https://github.com/mariogorki94/FlutterFancyClock/blob/master/pictures/6.png)
 
-- Most people will glance at your `README`, *maybe* star it, and leave
-- Ergo, people should understand instantly what your project is about based on your repo
-
-> Tips
-
-- HAVE WHITE SPACE
-- MAKE IT PRETTY
-- GIFS ARE REALLY COOL
-
-> GIF Tools
-
-- Use <a href="http://recordit.co/" target="_blank">**Recordit**</a> to create quicks screencasts of your desktop and export them as `GIF`s.
-- For terminal sessions, there's <a href="https://github.com/chjj/ttystudio" target="_blank">**ttystudio**</a> which also supports exporting `GIF`s.
-
-**Recordit**
-
-![Recordit GIF](http://g.recordit.co/iLN6A0vSD8.gif)
-
-**ttystudio**
-
-![ttystudio GIF](https://raw.githubusercontent.com/chjj/ttystudio/master/img/example.gif)
-
----
-
-## Table of Contents (Optional)
-
-> If your `README` has a lot of info, section headers might be nice.
-
-- [Installation](#installation)
-- [Features](#features)
-- [Contributing](#contributing)
-- [Team](#team)
-- [FAQ](#faq)
-- [Support](#support)
-- [License](#license)
-
-
----
-
-## Example (Optional)
-
-```javascript
-// code away!
-
-let generateProject = project => {
-  let code = [];
-  for (let js = 0; js < project.length; js++) {
-    code.push(js);
-  }
-};
-```
-
----
 
 ## Installation
 
@@ -70,7 +22,7 @@ let generateProject = project => {
 
 ### Clone
 
-- Clone this repo to your local machine using `https://github.com/fvcproductions/SOMEREPO`
+- Clone this repo to your local machine using `https://github.com/mariogorki94/FlutterFancyClock.git`
 
 ### Setup
 
@@ -89,10 +41,6 @@ $ brew install fvcproductions
 $ npm install
 $ bower install
 ```
-
-- For all the possible languages that support syntax highlithing on GitHub (which is basically all of them), refer <a href="https://github.com/github/linguist/blob/master/lib/linguist/languages.yml" target="_blank">here</a>.
-
----
 
 ## Features
 
